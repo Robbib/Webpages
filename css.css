@@ -1,0 +1,8 @@
+.paragraph-large {
+    font-size:40px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .border-red {
+   border: 1px solid red
+  }
